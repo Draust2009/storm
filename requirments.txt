@@ -1,0 +1,7 @@
+opencv-python
+face-recognition
+torch
+torchvision
+pyttsx3
+pandas
+SpeechRecognition
